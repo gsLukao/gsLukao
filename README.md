@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsLukao
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning "Information Security"
-- 💞️ I’m looking to collaborate on "Hack_RF" , "CTF" and "Cybersecurity RedTeam" .
+- 💞️ I’m looking to collaborate on "Hack_RF" , "CTF", "Cybersecurity RedTeam" , "FIVEM Scripts".
 - 📫 How to reach me suporte@gruposales.tec.br
 
 <!---
