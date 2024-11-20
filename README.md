@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning "Information Security"
 - 💞️ I’m looking to collaborate on "Hack_RF" , "CTF", "Cybersecurity RedTeam" , "FIVEM Scripts".
-- 📫 How to reach me suporte@gruposales.tec.br
+- 📫 How to reach me lukasgabriel@gruposales.tec.br
 
 <!---
 gsLukao/gsLukao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
